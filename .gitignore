@@ -1,0 +1,51 @@
+## Compiled binaries
+*.dll
+*.exe
+*.so
+*.dylib
+
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.log
+*.sql
+*.pdb
+
+## Other
+*.tmp
+*.cache
+*.config
+*.ide
+
+# Rider
+.idea/
+*.sln.iml
