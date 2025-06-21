@@ -1,7 +1,7 @@
 using System;
 
 
-namespace Fundamentals.Models
+namespace Fundamentals.Common.Models
 {
     public class Calculator
     {

@@ -1,7 +1,6 @@
-﻿
+﻿using System;
 
 using Fundamentals.Common.Models;
-
 
 Person person1 = new Person();
 

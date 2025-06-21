@@ -1,6 +1,6 @@
 namespace Fundamentals.Common.Models;
 
-public class Person
+class Person
 {
     public string Name { get; set; }
     public int Age { get; set; }
