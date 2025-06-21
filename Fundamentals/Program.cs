@@ -1,5 +1,15 @@
 ﻿
 
+using Fundamentals.Common.Models;
+
+
+Person person1 = new Person();
+
+person1.Name = "Tiago";
+person1.Age = 30;
+person1.Present();
+
+
 
 
 
